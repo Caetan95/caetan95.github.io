@@ -8,17 +8,15 @@
 |<a href="https://github.com/indico/newdle/"><img src="images/install.png" width="64"></a>|[Install instructions](https://github.com/indico/newdle/)|
 |||
 
-
 # Newdle
-
-![CI Status](https://github.com/indico/newdle/workflows/CI/badge.svg) [![License](https://img.shields.io/github/license/indico/newdle.svg)](https://github.com/indico/newdle/blob/master/LICENSE) [![Made at CERN!](https://img.shields.io/badge/CERN-Open%20Source-%232980b9.svg)](https://home.cern)
-
-<img src="images/logo_color.svg" alt="hi" width="300" align="center" />
-
 
 **Newdle** is the new, shiny tool brought to you by the [Indico Team](https://getindico.io/about/) @ [CERN](https://home.cern/). Here at CERN we **hold a lot of meetings**. While [Indico](https://getindico.io/) makes it super easy to manage those meetings, we still **lose a lot of time** trying to schedule them, which usually involves numerous emails and private messages. That is what newdle has been created for: to streamline the process of choosing **the perfect date and time** for your next meeting/event.
 
 Newdle is part of the [MALT project](https://malt.web.cern.ch/malt/).
+
+
+<img src="images/logo_color.svg" alt="hi" width="300" align="center" />
+
 
 ### Why another tool?
 
