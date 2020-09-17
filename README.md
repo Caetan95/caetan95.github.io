@@ -21,7 +21,7 @@ We chose Python 3.8 as the backend language, so make sure you have it installed.
 
 Make sure you have the ``` python3.8``` binary in your PATH. You can also use the ```PYTHON``` environment variable to override the location of the ``` python``` binary. e.g.:
 
-``` $ PYTHON=/usr/bin/python3.8 make ```
+    $ PYTHON=/usr/bin/python3.8 make
 
 ### Database schema
 
@@ -36,7 +36,7 @@ Once everything is running, you can access the webapp on ```http://127.0.0.1:300
 
 Use the ```BROWSER``` environment variable if you want to prevent new browser windows being opened every time you run ```make react-server```.
 
-```BROWSER=none make react-server```
+    BROWSER=none make react-server```
 
 ### Other available ```make``` targets
 
@@ -50,10 +50,12 @@ We provide a couple of additional ```make``` targets that should streamline the 
 ```make build``` - builds a Python wheel which then could be used to install ```newdle``` in production
 
 
- 	Made at CERN
-Take part!
+|||
+|-|-|
+|<a href="https://home.cern"><img src="https://raw.githubusercontent.com/indico/assets/master/cern_badge.png" width="64"></a>|Made at [CERN](https://home.cern)<br>[Take part!](https://careers.cern/)|
+|||
 
 
 ### Note
 
-    In applying the MIT license, CERN does not waive the privileges and immunities granted to it by virtue of its status as an Intergovernmental Organization or submit itself to any jurisdiction.
+In applying the MIT license, CERN does not waive the privileges and immunities granted to it by virtue of its status as an Intergovernmental Organization or submit itself to any jurisdiction.
