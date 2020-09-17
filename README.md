@@ -13,11 +13,11 @@ Newdle is part of the [MALT project](https://malt.web.cern.ch/malt/).
 <img src="images/logo_color.svg" alt="hi" width="300" align="center" />
 
 
-### Why another tool?
+## Why another tool?
 
 It's true that there are already several commercial and Open Source solutions available that provide ad-hoc "polls". However, we have noticed that none of those tools seem to offer, at the same time, a user-friendly and modern interface and the additional freedom and flexibility that come with being part of an Open Source ecosystem. Additionally, none of them seem to seamlessly integrate with other enterprise systems.
 
-#### Integration
+### Integration
 
 Newdle can currently fetch free-busy information from **Exchange servers**. This information can be used while deciding on candidate slots ("when is everyone free?") as well as when answering to a "poll" ("when am I free?"). We are currently working on integrating with other providers.
 
@@ -25,13 +25,13 @@ Newdle is also developed by the same people who are behind [Indico](https://geti
 
 
 
-### Features
+## Features
 
 
 
 
 
-### Development instructions
+## Development instructions
 
 |||
 |-|-|
@@ -77,7 +77,7 @@ We provide a couple of additional ```make``` targets that should streamline the 
 |||
 
 
-### Note
+## Note
 
 > In applying the MIT license, CERN does not waive the privileges and immunities
 > granted to it by virtue of its status as an Intergovernmental Organization
