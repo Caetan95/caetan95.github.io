@@ -27,7 +27,12 @@ Newdle is also developed by the same people who are behind [Indico](https://geti
 
 ## Features
 
-- 
+- Add participants searching by name and/or email address
+- Choose time slots for different days
+- Copy time slots from previous day
+- Keep list of participants private
+- To check if I am part of any newdles
+- To check my newdles
 
 
 ![A sneak peek of Newdle](images/sneakpeek.gif)
