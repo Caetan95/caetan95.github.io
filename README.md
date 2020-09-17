@@ -30,7 +30,7 @@ Newdle is also developed by the same people who are behind [Indico](https://geti
 - 
 
 
-(/images/sneakpeek.gif)
+![Newdle](/images/sneakpeek.gif)
 
 ## Development instructions
 
