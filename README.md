@@ -1,9 +1,9 @@
-# Newdle site
+# Newdle
 
 ![CI Status](https://github.com/indico/newdle/workflows/CI/badge.svg) [![License](https://img.shields.io/github/license/indico/newdle.svg)](https://github.com/indico/newdle/blob/master/LICENSE) [![Made at CERN!](https://img.shields.io/badge/CERN-Open%20Source-%232980b9.svg)](https://home.cern)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/indico/newdle/client/src/images/logo_color.svg" width="300"><br>
+  <img src="https://raw.githubusercontent.com/newdle/newdle/client/src/images/logo_color.svg" width="300"><br>
 </p>
 <br>
 
