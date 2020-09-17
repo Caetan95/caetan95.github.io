@@ -57,8 +57,3 @@ Take part!
 ### Note
 
     In applying the MIT license, CERN does not waive the privileges and immunities granted to it by virtue of its status as an Intergovernmental Organization or submit itself to any jurisdiction.
-
-
-### Jekyll Themes
-
-This Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Caetan95/newdle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
