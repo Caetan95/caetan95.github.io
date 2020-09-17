@@ -27,9 +27,10 @@ Newdle is also developed by the same people who are behind [Indico](https://geti
 
 ## Features
 
+- 
 
 
-
+(/images/sneakpeek.gif)
 
 ## Development instructions
 
