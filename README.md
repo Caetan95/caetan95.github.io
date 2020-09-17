@@ -1,13 +1,3 @@
-|||
-|-|-|
-|<a href="https://github.com/indico/newdle/"><img src="images/logo_color.svg" width="64"></a>|[Newdle repo](https://github.com/indico/newdle/)|
-|||
-
-|||
-|-|-|
-|<a href="https://github.com/indico/newdle/"><img src="images/install.png" width="64"></a>|[Install instructions](https://github.com/indico/newdle/)|
-|||
-
 # Newdle
 
 **Newdle** is the new, shiny tool brought to you by the [Indico Team](https://getindico.io/about/) @ [CERN](https://home.cern/). Here at CERN we **hold a lot of meetings**. While [Indico](https://getindico.io/) makes it super easy to manage those meetings, we still **lose a lot of time** trying to schedule them, which usually involves numerous emails and private messages. That is what newdle has been created for: to streamline the process of choosing **the perfect date and time** for your next meeting/event.
@@ -27,6 +17,17 @@ It's true that there are already several commercial and Open Source solutions av
 Newdle can currently fetch free-busy information from **Exchange servers**. This information can be used while deciding on candidate slots ("when is everyone free?") as well as when answering to a "poll" ("when am I free?"). We are currently working on integrating with other providers.
 
 Newdle is also developed by the same people who are behind [Indico](https://getindico.io/), and that's not by pure chance. newdle naturally complements Indico, as it targets what comes immediately before the actual creation of a meeting. This is why we would like to have the possibility to **create meetings on Indico** once a final date is decided (still work in progress!).
+
+|||
+|-|-|
+|<a href="https://github.com/indico/newdle/"><img src="images/logo_color.svg" width="64"></a>|[Newdle repo](https://github.com/indico/newdle/)|
+|||
+
+|||
+|-|-|
+|<a href="https://github.com/indico/newdle/"><img src="images/install.png" width="64"></a>|[Install instructions](https://github.com/indico/newdle/)|
+|||
+
 
 
 ### Development
