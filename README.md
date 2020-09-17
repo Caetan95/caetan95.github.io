@@ -24,14 +24,19 @@ Newdle can currently fetch free-busy information from **Exchange servers**. This
 Newdle is also developed by the same people who are behind [Indico](https://getindico.io/), and that's not by pure chance. newdle naturally complements Indico, as it targets what comes immediately before the actual creation of a meeting. This is why we would like to have the possibility to **create meetings on Indico** once a final date is decided (still work in progress!).
 
 
+
+### Features
+
+
+
+
+
+### Development instructions
+
 |||
 |-|-|
-|<a href="https://github.com/indico/newdle/"><img src="images/install.png" width="64"></a>|[Install instructions](https://github.com/indico/newdle/)|
+|<a href="https://github.com/indico/newdle#development"><img src="images/install.png" width="64"></a>|[Install instructions](https://github.com/indico/newdle#development)|
 |||
-
-
-
-### Development
 
 We chose Python 3.8 as the backend language, so make sure you have it installed. To prepare the development environment it is enough to run ``` make ``` which takes care of installing all required dependencies inside a new virtualenv. Typically that will be the ``` .venv ``` directory unless you override the environment variable ``` VENV``` e.g. ``` VENV=.virtualenv make```. Activate your virtualenv using ``` source .venv/bin/activate``` since this is required to run the various flask comments that come later.
 
