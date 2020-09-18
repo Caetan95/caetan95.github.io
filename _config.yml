@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 title: Newdle Project
 github_username: newdle
-url: "https://newdle.github.io"
 description: > # this means to ignore newlines until "baseurl:"
  Newdle Project Official site
 baseurl: "" # the subpath of your site, e.g. /blog/
