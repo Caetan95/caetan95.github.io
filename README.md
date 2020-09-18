@@ -31,8 +31,8 @@ Newdle is also developed by the same people who are behind [Indico](https://geti
 - Choose time slots for different days
 - Copy time slots from previous day
 - Keep list of participants private
-- To check if I am part of any newdles
-- To check my newdles
+- Check if I am part of any newdles
+- Check my newdles
 
 
 ![A sneak peek of Newdle](images/sneakpeek.gif)
