@@ -63,7 +63,7 @@ Once everything is running, you can access the webapp on ```http://127.0.0.1:300
 
 Use the ```BROWSER``` environment variable if you want to prevent new browser windows being opened every time you run ```make react-server```.
 
-    BROWSER=none make react-server```
+    BROWSER=none make react-server
 
 ### Other available ```make``` targets
 
